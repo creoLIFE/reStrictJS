@@ -1,0 +1,29 @@
+{
+    "name": "reStrictJS",
+    "version": "1.0.0",
+    "description": "reStrictJS - The best Javascript Framework EVER",
+    "dependencies": {
+        "volkswagen": "1.4.2"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/creoLIFE/reStrictJS.git"
+    },
+    "keywords": [
+        "restrictJS",
+        "javascript",
+        "framework"
+    ],
+    "author": "Miroslaw Ratman",
+    "contributors": [
+        ""
+    ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/creoLIFE/reStrictJS/issues"
+    },
+    "homepage": "https://github.com/creoLIFE/reStrictJS"
+}
